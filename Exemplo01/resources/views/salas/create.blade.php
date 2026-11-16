@@ -11,13 +11,13 @@
 
         @csrf
 
-        <label>n° sala:</label>
-        <input type="text" name="placa">
+        <label>n°_sala:</label>
+        <input type="text" name="n°_sala">
 
         <br><br>
 
         <label>bloco:</label>
-        <input type="text" name="marca">
+        <input type="text" name="bloco">
 
         <br><br>
 
